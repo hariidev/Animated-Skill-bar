@@ -1,1 +1,1 @@
-# Animated-Skill-bar
+# Animated-responsive-skill-bar
